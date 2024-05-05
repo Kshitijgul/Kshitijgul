@@ -1,5 +1,5 @@
 
-[![MasterHead](https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif)](https://kshitijgul.netlify.app/)
+(https://kshitijgul.netlify.app/)
 <h1 align="center">Hi 👋, I'm Kshitij Guladhe</h1>
 <h3 align="center">A passionate frontend developer from Maharashtra , India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJwc3prOXN3ZXVtd2YwYW16NWh5Ymdlc2wwOTQ0bXU3bTIwM2prMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif">
