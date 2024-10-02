@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React and Tailwind CSS **
 
-- 👨‍💻 All of my projects are available at [https://kshitijgul.netlify.app/](https://kshitijgul.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kshitijgul.netlify.app/](https://kshitij-gul.vercel.app/)
 
 - 💬 Ask me about **react , gsap**
 
